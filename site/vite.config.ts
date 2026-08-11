@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 // Relative base so the site works whether it's served from the root of a
-// custom domain (forge.dev/) or a subpath like grandillionaire.github.io/forge/.
+// custom domain (forge.dev/) or a subpath like maximilliangrand.github.io/forge/.
 //
 // Empty postcss config stops Vite from auto-discovering the parent project's
 // postcss.config.mjs (which depends on tailwind that isn't a site dep).
