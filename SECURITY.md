@@ -9,7 +9,7 @@ Forge is a desktop app that runs entirely on a user's machine, with one external
 Use one of these private channels:
 
 1. **GitHub Security Advisories** — preferred. Open one at:
-   https://github.com/Grandillionaire/forge/security/advisories/new
+   https://github.com/maximilliangrand/forge/security/advisories/new
 2. **Direct contact** — through the maintainer's GitHub profile.
 
 Expect an acknowledgement within **72 hours**. We'll discuss a fix and disclosure timeline privately, then coordinate a release.

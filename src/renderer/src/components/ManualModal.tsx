@@ -113,7 +113,7 @@ export function ManualModal({ open, onClose }: Props) {
                 <button
                   onClick={() =>
                     window.forge.openExternal(
-                      'https://github.com/Grandillionaire/forge/blob/main/USAGE.md',
+                      'https://github.com/maximilliangrand/forge/blob/main/USAGE.md',
                     )
                   }
                   className="btn-icon"

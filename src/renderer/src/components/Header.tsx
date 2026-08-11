@@ -12,7 +12,7 @@ interface Props {
   onShowAssistant: () => void;
 }
 
-const REPO_URL = 'https://github.com/Grandillionaire/forge';
+const REPO_URL = 'https://github.com/maximilliangrand/forge';
 
 /**
  * Top frame: wordmark + diagnostics strip. The drag region is the whole header

@@ -1,7 +1,7 @@
 import { Heart } from 'lucide-react';
 import { GithubMark } from './icons/GithubMark';
 
-const REPO_URL = 'https://github.com/Grandillionaire/forge';
+const REPO_URL = 'https://github.com/maximilliangrand/forge';
 
 /**
  * Footer: minimal, MIT-licensed, with a link back to the source.
@@ -26,7 +26,7 @@ export function Footer() {
           className="inline-flex items-center gap-1.5 hover:text-forge-primaryHi transition-colors"
         >
           <GithubMark className="w-3 h-3" />
-          <span>github.com/Grandillionaire/forge</span>
+          <span>github.com/maximilliangrand/forge</span>
         </button>
         <span className="text-white/15 hidden sm:inline">·</span>
         <span className="hidden sm:inline-flex items-center gap-1">

@@ -12,7 +12,13 @@ asarUnpack:
   - resources/**
 
 publish:
+  # owner/repo are pinned EXPLICITLY. When omitted, electron-builder infers them
+  # from package.json `repository` and bakes the result into app-update.yml — which
+  # is how shipped builds ended up auto-updating from a GitHub namespace that was
+  # later vacated and left re-registrable by anyone.
   provider: github
+  owner: maximilliangrand
+  repo: forge
   releaseType: release
 
 mac:

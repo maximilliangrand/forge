@@ -8,7 +8,7 @@
 
 **Bulk media tooling. Local. GPU-accelerated. MIT.**
 
-[Download](https://github.com/Grandillionaire/forge/releases/latest) · [Source](https://github.com/Grandillionaire/forge) · [Issues](https://github.com/Grandillionaire/forge/issues)
+[Download](https://github.com/maximilliangrand/forge/releases/latest) · [Source](https://github.com/maximilliangrand/forge) · [Issues](https://github.com/maximilliangrand/forge/issues)
 
 </div>
 
@@ -34,7 +34,7 @@ Everything is **local**. No uploads, no accounts, no per-use cost. Files never l
 
 ### 1. Install
 
-Download the right installer for your OS from the [latest release](https://github.com/Grandillionaire/forge/releases/latest):
+Download the right installer for your OS from the [latest release](https://github.com/maximilliangrand/forge/releases/latest):
 
 | Platform | File |
 |---|---|
@@ -446,7 +446,7 @@ For security disclosures, see [SECURITY.md](SECURITY.md).
 If you'd rather not download a binary, or want to modify Forge:
 
 ```bash
-git clone https://github.com/Grandillionaire/forge.git
+git clone https://github.com/maximilliangrand/forge.git
 cd forge
 npm install
 npm run dev               # hot-reload development
@@ -461,6 +461,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the rest of the workflow.
 
 <div align="center">
 
-**Forge** · MIT licensed · [github.com/Grandillionaire/forge](https://github.com/Grandillionaire/forge)
+**Forge** · MIT licensed · [github.com/maximilliangrand/forge](https://github.com/maximilliangrand/forge)
 
 </div>

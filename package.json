@@ -2,19 +2,19 @@
   "name": "forge",
   "productName": "Forge",
   "version": "0.6.0",
-  "description": "Forge — bulk media tooling. AI image upscaling, batch compression, AI video upscaling. Local-first, GPU-accelerated.",
+  "description": "Forge \u2014 bulk media tooling. AI image upscaling, batch compression, AI video upscaling. Local-first, GPU-accelerated.",
   "main": "out/main/index.js",
   "author": {
     "name": "Forge Contributors"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Grandillionaire/forge",
+  "homepage": "https://github.com/maximilliangrand/forge",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Grandillionaire/forge.git"
+    "url": "https://github.com/maximilliangrand/forge.git"
   },
   "bugs": {
-    "url": "https://github.com/Grandillionaire/forge/issues"
+    "url": "https://github.com/maximilliangrand/forge/issues"
   },
   "keywords": [
     "image-upscaling",

@@ -10,7 +10,7 @@
  * to "View on GitHub" since you can't run a desktop binary on iOS/Android.
  */
 
-const REPO = 'Grandillionaire/forge';
+const REPO = 'maximilliangrand/forge';
 const RELEASES_PAGE = `https://github.com/${REPO}/releases/latest`;
 const REPO_PAGE = `https://github.com/${REPO}`;
 

@@ -5,7 +5,7 @@ Thanks for considering a contribution.
 ## Setup
 
 ```bash
-git clone https://github.com/Grandillionaire/forge.git
+git clone https://github.com/maximilliangrand/forge.git
 cd forge
 npm install
 npm run dev

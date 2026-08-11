@@ -19,7 +19,7 @@ Everything is parallelized. The AI engine downloads on first use (~50 MB, one-ti
 
 ## Install
 
-Download from the [latest release](https://github.com/Grandillionaire/forge/releases/latest):
+Download from the [latest release](https://github.com/maximilliangrand/forge/releases/latest):
 
 | Platform | Asset |
 |---|---|
@@ -60,7 +60,7 @@ After the first launch, Forge self-updates from GitHub Releases on every subsequ
 ## Build from source
 
 ```bash
-git clone https://github.com/Grandillionaire/forge.git
+git clone https://github.com/maximilliangrand/forge.git
 cd forge
 npm install
 npm run dev               # hot-reload dev
